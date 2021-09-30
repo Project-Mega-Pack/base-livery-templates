@@ -1,0 +1,84 @@
+{
+  "content": [
+	{
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/MODEL.MAIN/model.CFG",
+      "size": 2796344,
+      "date": 132400153606246674
+    },
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/aircraft.cfg",
+      "size": 3425,
+      "date": 132361714550000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_BODY_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400153606246674
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_BODY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400153606206672
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_BODY02_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400153660979423
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_BODY02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400153660939430
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_DECALS_02_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400153606246674
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_DECALS_02_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400153606206672
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400153606246674
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400153606206672
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_DETAILS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400153606246674
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/ICON_A5_AIRFRAME_DETAILS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400153606206672
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/texture.CFG",
+      "size": 203,
+      "date": 132189146930000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/thumbnail.JPG",
+      "size": 211132,
+      "date": 132200099640000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Icon-template/TEXTURE.Template/thumbnail_small.JPG",
+      "size": 34999,
+      "date": 132270116980000000
+    }
+  ]
+}

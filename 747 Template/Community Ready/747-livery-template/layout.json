@@ -1,0 +1,104 @@
+{
+  "content": [
+	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/MODEL.MAIN/model.CFG",
+      "size": 2796344,
+      "date": 132400218603233713
+    },
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/aircraft.cfg",
+      "size": 10060,
+      "date": 132367900270000000
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_BELLY_ALBD.PNG.DDS",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_ENGINEBODY_ALBD.PNG.DDS",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_HULL_ALBD.PNG.DDS",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_LIVERY2_ALBD.PNG.DDS",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+	  {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_WINGFLAPS_ALBD.PNG.DDS",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_BELLY_ALBD.PNG.DDS.json",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_ENGINEBODY_ALBD.PNG.DDS.json",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_HULL_ALBD.PNG.DDS.json",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_LIVERY2_ALBD.PNG.DDS.json",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/747_8I_AIRFRAME_WINGFLAPS_ALBD.PNG.DDS.json",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+  	{
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 1989,
+      "date": 132408467137908381
+    },
+	  {
+      "path": "SimObjects/Airplanes/Asobo_B747_8i-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 1989,
+      "date": 132408467137908381
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "content": [
+	{
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/MODEL.MAIN/model.CFG",
+      "size": 2796344,
+      "date": 132400141829864994
+    },
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/aircraft.cfg",
+      "size": 2924,
+      "date": 132361716190000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141829864994
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141829814994
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_AIRFRAME_LANDING_GEARS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400141743392588
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_AIRFRAME_LANDING_GEARS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400141743322591
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141734836918
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141734786919
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_FLOOR_BACK_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141676912041
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_INPUTS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400141496587019
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_INPUTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400141496507021
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_FLOOR_BACK_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141676872046
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_MAIN_PANEL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141683556780
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_MAIN_PANEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141683506788
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_PEDALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400141630373230
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400141630303229
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_SIDES_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141582776784
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/SAVAGE_CUB_COCKPIT_SIDES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141582736780
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 274,
+      "date": 132237288340000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 220017,
+      "date": 132254631070000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Savage_Cub-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 44225,
+      "date": 132270115740000000
+    }
+  ]
+}

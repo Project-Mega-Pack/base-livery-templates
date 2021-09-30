@@ -1,0 +1,109 @@
+{
+  "content": [
+	{
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/MODEL.MAIN/model.CFG",
+      "size": 2796344,
+      "date": 132400156306345738
+    },
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/aircraft.cfg",
+      "size": 3260,
+      "date": 132361711080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156306345738
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156306295738
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156149237279
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_FRONTGEAR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156149197284
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156202652871
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156202612877
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400156395258802
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156395238803
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_REARGEAR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156299470376
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_REARGEAR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156299430377
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_TEXT_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400156312554798
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_TEXT_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246935420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_TEXT_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400156312484804
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400156155357103
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/CESSNA_CJ4_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400156155307105
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 172,
+      "date": 132203718520000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 150624,
+      "date": 132300455930000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_CJ4-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 29506,
+      "date": 132300455390000000
+    }
+  ]
+}

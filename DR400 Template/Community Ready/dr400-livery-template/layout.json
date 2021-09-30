@@ -1,0 +1,129 @@
+{
+  "content": [
+	{
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/MODEL.MAIN/model.CFG",
+      "size": 349680,
+      "date": 132400115866913282
+    },
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/aircraft.cfg",
+      "size": 3490,
+      "date": 132361712790000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_DECAL_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132400115866913282
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_DECAL_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246943760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400115866883287
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400115914882884
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400115914862879
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_LYCOMING_ENGINE_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400115917902784
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_LYCOMING_ENGINE_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400115917872787
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_LYCOMING_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400115756682933
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_LYCOMING_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400115756642936
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_PROPBLUR_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132400115915632858
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_PROPBLUR_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400115915602855
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_PROPSLOW_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132400115762131001
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_PROPSLOW_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400115762101004
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400115873043852
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400115873003857
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_COCKPIT_SEATS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400116002067870
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400116002027873
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_COCKPIT_SHELL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400116098149800
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/DR400_COCKPIT_SHELL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400116098109804
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 204,
+      "date": 132271000500000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 229750,
+      "date": 132200103100000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DR400-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 34419,
+      "date": 132270117640000000
+    }
+  ]
+}

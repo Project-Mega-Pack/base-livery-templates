@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/MODEL.MAIN/model.CFG",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+	{
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/aircraft.cfg",
+      "size": 10060,
+      "date": 132367900270000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_X6_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_X6_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400120866675507
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400120866675507
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_LANDING_ALBD.PNG.DDS.json",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400120866745510
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/DA40_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400120866675507
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 166,
+      "date": 132243417610000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 236335,
+      "date": 132200099790000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA40_NG-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 33608,
+      "date": 132270122080000000
+    }
+  ]
+}

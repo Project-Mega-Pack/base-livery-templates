@@ -1,0 +1,154 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/MODEL.MAIN/model.CFG",
+      "size": 2796344,
+      "date": 132400114330375931
+    },
+	{
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/aircraft.cfg",
+      "size": 3033,
+      "date": 132398804490000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_DETAILS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400114330375931
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_DETAILS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400114330325930
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400114866886177
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400114866836183
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 132400114916552282
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400114916412287
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400114493879805
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400114493829804
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_BLURRED_ALBD.PNG.DDS",
+      "size": 5335488,
+      "date": 132400114252817511
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_BLURRED_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400114252742456
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_SIDE.PNG.DDS",
+      "size": 43920,
+      "date": 132400114330595924
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_SIDE.PNG.DDS.json",
+      "size": 119,
+      "date": 132400114330585919
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_SLOW_ALBD.PNG.DDS",
+      "size": 5335488,
+      "date": 132400114264294644
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_SLOW_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400114264234646
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_STILL_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132400114933559787
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_PROP_STILL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400114933529790
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400114427163274
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400114427128210
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_COCKPIT_MAIN_INTERIOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400115227225066
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_COCKPIT_MAIN_INTERIOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400115227175073
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_COCKPIT_SEATS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400115205678627
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400115205638632
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_COCKPIT_SECONDARY_INTERIOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400115537628300
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/PITTS_SPECIAL_S2-S_COCKPIT_SECONDARY_INTERIOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400115537588302
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 293,
+      "date": 132300585050000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 304340,
+      "date": 132200099310000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Pitts-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 45453,
+      "date": 132270116290000000
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "content": [
+	{
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/MODEL.MAIN/model.CFG",
+      "size": 2796344,
+      "date": 132400122571677435
+    },
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/aircraft.cfg",
+      "size": 3594,
+      "date": 132361711870000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_BODY_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400122571677435
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_BODY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400122571637437
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_DECAL_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400122499174845
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_DECAL_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246941150000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400122499154844
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400122415651529
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_LIVERY_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246941130000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400122415641535
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_PROP_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 132400122468677739
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_PROP_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400122468647736
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400122520533399
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/DA62_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400122520483400
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 200,
+      "date": 132277084950000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 186661,
+      "date": 132300478650000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_DA62-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 36679,
+      "date": 132300479560000000
+    }
+  ]
+}

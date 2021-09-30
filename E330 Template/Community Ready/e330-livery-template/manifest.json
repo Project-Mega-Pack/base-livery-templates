@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "YOUR LIVERY NAME",
+      "package_version": "VERSION NUMBER"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "YOUR LIVERY NAME",
+  "manufacturer": "MANUFACTURER",
+  "creator": "CREATOR NAME",
+  "package_version": "VERSION NUMBER",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000000000"
+}

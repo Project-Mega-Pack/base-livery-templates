@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/MODEL.MAIN/model.CFG",
+      "size": 1398256,
+      "date": 132400218444085406
+    },
+	{
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/aircraft.cfg",
+      "size": 3776,
+      "date": 132361710770000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_DECAL_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400218444085406
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_DECAL_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246934970000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_DECAL_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400218444055407
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_DETAIL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400217874609366
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_DETAIL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400217874569363
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400218539897433
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400218539857435
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_WING_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400218532617136
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_AIRFRAME_WING_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400218532577137
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_COCKPIT_SEAT_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400218215967441
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/CAP10C_COCKPIT_SEAT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400218215917439
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 248,
+      "date": 132254790220000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 221086,
+      "date": 132200105720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Cap10C-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 33168,
+      "date": 132270119660000000
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "content": [
+	{
+      "path": "SimObjects/Airplanes/Asobo_E330-template/MODEL.MAIN/model.CFG",
+      "size": 5592560,
+      "date": 132400136710910057
+    },
+    {
+      "path": "manifest.json",
+      "size": 301,
+      "date": 132437052000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/aircraft.cfg",
+      "size": 3631,
+      "date": 132361713540000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_DECALS_ALBD.TIF.DDS",
+      "size": 5592560,
+      "date": 132400136710910057
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_DECALS_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132400136710830056
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_FUSELAGE_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132400136630076384
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_FUSELAGE_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132400136630026381
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_LIVERY.PNG.DDS",
+      "size": 2872,
+      "date": 132400136757601721
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_LIVERY.PNG.DDS.json",
+      "size": 102,
+      "date": 132400136757591722
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_PROP_BLURRED_ALBEDO.PNG.DDS",
+      "size": 1398256,
+      "date": 132400136672193459
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_PROP_BLURRED_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132400136672163461
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_PROP_STILL_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132400136611221633
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_PROP_STILL_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132400136611181632
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_WINGS_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 132400136676780822
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/EXTRA_330_EXTERIOR_WINGS_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132400136676730827
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 294,
+      "date": 132229662970000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/thumbnail.JPG",
+      "size": 197311,
+      "date": 132200100290000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_E330-template/TEXTURE.TEMPLATE/thumbnail_small.JPG",
+      "size": 30116,
+      "date": 132270123120000000
+    }
+  ]
+}
